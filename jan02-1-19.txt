@@ -1,0 +1,2 @@
+This file is being created in GITHUT.com url.
+The next step is to save this file in GITHUB and then pull it into linux operating system.
