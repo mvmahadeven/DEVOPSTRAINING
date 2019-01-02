@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This file is to practice devops  .
 Learning to check in , check out using GIT tool.
 Todays date is 02-Jan-2019.
+=======
+This is to test the GIT commands
+Practicing GIT commands to check in and checkout.
+First clone git url in linux before performing any task so that it is connected .
+move the control to the respective branch by using git checkout <branchname
+* indicates the current folder in control
+>>>>>>> 1a8c4f4976718ae59ce5e6107225585496e6f914
 
