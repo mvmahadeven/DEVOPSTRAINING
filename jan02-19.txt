@@ -1,0 +1,4 @@
+This file is to practice devops  .
+Learning to check in , check out using GIT tool.
+Todays date is 02-Jan-2019.
+
